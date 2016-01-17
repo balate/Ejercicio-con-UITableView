@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         
         TextView.text = FirstString
         
-       // super.viewDidLoad()
+        super.viewDidLoad()
     
-}
+    }
 }
